@@ -1,4 +1,4 @@
-package go_sample_web_server
+package main
 
 import "fmt"
 
